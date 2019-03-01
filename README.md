@@ -1,5 +1,5 @@
 # custom views
-There are you can find some custom views:)
+Here you can find some custom views:)
 
 RoundProgressLine.
 Status: in progress;
