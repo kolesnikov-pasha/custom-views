@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <clbrain.org.myapplication.RoundProgressLine
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:icon="@drawable/outline_search_black_48dp"
+        app:line_color="#abcabc"
+        app:icon_width="30dp"
+        app:icon_height="30dp"
+        app:line_width="50"
+        app:text_size="7sp"
+        android:id="@+id/qwe"
+        app:text_color="#A2A2A2"
+        app:progress_percent="0"
+        app:text="Поиск"/>
+
+
+</RelativeLayout>
