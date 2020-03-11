@@ -13,4 +13,8 @@
         <attr name="line_width" format="integer"/>
     </declare-styleable>
 
+    <declare-styleable name="DrawableOnTouchView">
+        <attr name="drawable_scr" format="reference"/>
+    </declare-styleable>
+
 </resources>
